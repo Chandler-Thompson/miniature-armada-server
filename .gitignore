@@ -1,3 +1,9 @@
+# Maven build files
+target/
+
+# Visual Studio Code environment files
+.vscode/
+
 # Compiled class file
 *.class
 
